@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am the sample.
+=======
+This is no longer a sample. I am improving.
+>>>>>>> update
